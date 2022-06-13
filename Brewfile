@@ -17,8 +17,9 @@ brew "postgresql"
 brew "python"
 brew "tmux"
 brew "zsh"
-cask "rectangle"
+cask "karabiner-elements"
 cask "keepingyouawake"
 cask "postman"
+cask "rectangle"
 mas "MeetingBar", id: 1532419400
 mas "Hidden Bar", id: 1452453066
