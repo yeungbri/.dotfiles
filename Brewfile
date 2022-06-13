@@ -21,8 +21,7 @@ cask "hiddenbar"
 cask "iterm2"
 cask "karabiner-elements"
 cask "keepingyouawake"
+cask "meetingbar"
 cask "postman"
 cask "quicksilver"
 cask "rectangle"
-mas "MeetingBar", id: 1532419400
-mas "Hidden Bar", id: 1452453066
