@@ -11,7 +11,6 @@ brew "direnv" # autoload env vars when in dir
 brew "fd" # better find
 brew "git"
 brew "jump"
-brew "licecap"
 # brew "mas" # mac app store
 brew "neovim"
 brew "postgresql"
@@ -22,6 +21,7 @@ brew "zsh"
 cask "hiddenbar"
 cask "iterm2"
 cask "joplin"
+cask "licecap"
 cask "linearmouse" # no mouse accel, custom sens
 cask "karabiner-elements"
 cask "keepingyouawake"
